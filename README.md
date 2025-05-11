@@ -1,3 +1,5 @@
+
+
 Social Data Export Viewer
 
 Social Data Export Viewer is a professional-grade web application that allows individuals to view and interpret their personal data exports from social media platforms. Designed with a focus on data privacy and usability, the tool converts raw JSON or ZIP archive files into a readable format without transmitting any data externally.
